@@ -20,3 +20,4 @@
 - [История операций](https://www.figma.com/design/uad8M5o2dUSroXC6xy69Qm/10.-History?m=auto&t=XPS4Ta4MQjSsaT1N-6)
 - [PFM](https://www.figma.com/design/15POc9NeuomGvfevDLpKdU/11.-PFM?m=auto&t=XPS4Ta4MQjSsaT1N-6)
 - [Лояльность](https://www.figma.com/design/i5qEMo91zV8qkFEciloKaq/12.-Loyalty?node-id=397-4&p=f&t=Ojef9PVupAdOnjJC-0)
+
