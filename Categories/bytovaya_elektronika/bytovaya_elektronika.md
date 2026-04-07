@@ -1,0 +1,57 @@
+# Электроника
+
+## [Телефоны ›](https://www.avito.ru/sankt-peterburg/telefony)
+- [Мобильные телефоны](https://www.avito.ru/sankt-peterburg/telefony/mobile-ASgBAgICAUSwwQ2I_Dc)
+- [Аксессуары](https://www.avito.ru/sankt-peterburg/telefony/aksessuari-ASgBAgICAUSwwQ2O_Dc)
+- [Сим-карты](https://www.avito.ru/sankt-peterburg/telefony/sim_karty-ASgBAgICAUSwwQ3kq5oD)
+- [Рации](https://www.avito.ru/sankt-peterburg/telefony/ratsiya-ASgBAgICAUSwwQ2K_Dc)
+- [Стационарные телефоны](https://www.avito.ru/sankt-peterburg/telefony/statsionarnye_telefoni-ASgBAgICAUSwwQ2M_Dc)
+
+## [Аудио и видео ›](https://www.avito.ru/sankt-peterburg/audio_i_video)
+- [Телевизоры и проекторы](https://www.avito.ru/sankt-peterburg/audio_i_video/televizory_i_proektory-ASgBAgICAUSIArgJ)
+- [Наушники](https://www.avito.ru/sankt-peterburg/audio_i_video/naushniki-ASgBAgICAUSIAtRO)
+- [Акустика, колонки, сабвуферы](https://www.avito.ru/sankt-peterburg/audio_i_video/akustika_kolonki_sabvufery-ASgBAgICAUSIAsxO)
+- [Аксессуары](https://www.avito.ru/sankt-peterburg/audio_i_video/aksessuary-ASgBAgICAUSIArwJ)
+- [Музыкальные центры, магнитолы](https://www.avito.ru/sankt-peterburg/audio_i_video/muzykalnye_tsentry_magnitoly-ASgBAgICAUSIAtJO)
+
+## [Товары для компьютера ›](https://www.avito.ru/sankt-peterburg/tovary_dlya_kompyutera)
+- [Комплектующие](https://www.avito.ru/sankt-peterburg/tovary_dlya_kompyutera/komplektuyuschie-ASgBAgICAUTGB~pm)
+- [Мониторы и запчасти](https://www.avito.ru/sankt-peterburg/tovary_dlya_kompyutera/monitory_i_zapshasty-ASgBAgICAUTGB4Bo)
+- [Сетевое оборудование](https://www.avito.ru/sankt-peterburg/tovary_dlya_kompyutera/setevoe_oborudovanie-ASgBAgICAUTGB75O)
+- [Клавиатуры и мыши](https://www.avito.ru/sankt-peterburg/tovary_dlya_kompyutera/klaviatury_i_myshi-ASgBAgICAUTGB7xO)
+- [Аксессуары](https://www.avito.ru/sankt-peterburg/tovary_dlya_kompyutera/aksessuary-ASgBAgICAUTGB5Ro)
+
+## [Игры, приставки и программы ›](https://www.avito.ru/sankt-peterburg/igry_pristavki_i_programmy)
+- [Игровые приставки и аксессуары](https://www.avito.ru/sankt-peterburg/igry_pristavki_i_programmy/igrovye_pristavki_i_aksessuary-ASgBAgICAUSSAsoJ)
+- [Игры для приставок](https://www.avito.ru/sankt-peterburg/igry_pristavki_i_programmy/igry_dlya_pristavok-ASgBAgICAUSSAsYJ)
+- [Программы](https://www.avito.ru/sankt-peterburg/igry_pristavki_i_programmy/programmy-ASgBAgICAUSSAs4J)
+- [Компьютерные игры](https://www.avito.ru/sankt-peterburg/igry_pristavki_i_programmy/kompyuternye_igry-ASgBAgICAUSSAsgJ)
+
+## [Ноутбуки ›](https://www.avito.ru/sankt-peterburg/noutbuki)
+
+## [Настольные компьютеры ›](https://www.avito.ru/sankt-peterburg/nastolnye_kompyutery)
+- [Системные блоки](https://www.avito.ru/sankt-peterburg/nastolnye_kompyutery/sistemnye_bloki-ASgBAgICAUS02xKMqY0D)
+- [Моноблоки](https://www.avito.ru/sankt-peterburg/nastolnye_kompyutery/monobloki-ASgBAgICAUS02xKOqY0D)
+- [Другое](https://www.avito.ru/sankt-peterburg/nastolnye_kompyutery?f=ASgBAgICAUS02xKQqY0D)
+
+## [Фототехника ›](https://www.avito.ru/sankt-peterburg/fototehnika)
+- [Оборудование и аксессуары](https://www.avito.ru/sankt-peterburg/fototehnika/oborudovanie_i_aksessuary-ASgBAgICAUS~A64X)
+- [Объективы](https://www.avito.ru/sankt-peterburg/fototehnika/obektivy-ASgBAgICAUS~A6YX)
+- [Компактные фотоаппараты](https://www.avito.ru/sankt-peterburg/fototehnika/kompaktnye_fotoapparaty-ASgBAgICAUS~A7IX)
+- [Плёночные фотоаппараты](https://www.avito.ru/sankt-peterburg/fototehnika/plenochnye_fotoapparaty-ASgBAgICAUS~A6gX)
+- [Зеркальные фотоаппараты](https://www.avito.ru/sankt-peterburg/fototehnika/zerkalnye_fotoapparaty-ASgBAgICAUS~A7AX)
+- [Бинокли и телескопы](https://www.avito.ru/sankt-peterburg/fototehnika/binokli_i_teleskopy-ASgBAgICAUS~A6IX)
+
+## [Планшеты и электронные книги ›](https://www.avito.ru/sankt-peterburg/planshety_i_elektronnye_knigi)
+- [Планшеты](https://www.avito.ru/sankt-peterburg/planshety_i_elektronnye_knigi/planshety-ASgBAgICAUSYAoZO)
+- [Аксессуары](https://www.avito.ru/sankt-peterburg/planshety_i_elektronnye_knigi/aksessuary-ASgBAgICAUSYAopO)
+- [Электронные книги](https://www.avito.ru/sankt-peterburg/planshety_i_elektronnye_knigi/elektronnye_knigi-ASgBAgICAUSYAohO)
+
+## [Оргтехника и расходники ›](https://www.avito.ru/sankt-peterburg/orgtehnika_i_rashodniki)
+- [МФУ, копиры и сканеры](https://www.avito.ru/sankt-peterburg/orgtehnika_i_rashodniki/mfu_kopiry_i_skanery-ASgBAgICAUSoAvpO)
+- [Принтеры](https://www.avito.ru/sankt-peterburg/orgtehnika_i_rashodniki/printery-ASgBAgICAUSoAoQK)
+- [Канцелярия](https://www.avito.ru/sankt-peterburg/orgtehnika_i_rashodniki/kantselyariya-ASgBAgICAUSoAogK)
+- [ИБП, сетевые фильтры](https://www.avito.ru/sankt-peterburg/orgtehnika_i_rashodniki/ibp_setevye_filtry-ASgBAgICAUSoAv5O)
+- [Телефония](https://www.avito.ru/sankt-peterburg/orgtehnika_i_rashodniki/telefoniya-ASgBAgICAUSoAvxO)
+- [Уничтожители бумаг](https://www.avito.ru/sankt-pетерburg/orgtehnika_i_rashodniki/unichtozhiteli_bumag-ASgBAgICAUSoAoBP)
+- [Расходные материалы](https://www.avito.ru/sankt-peterburg/orgtehnika_i_rashodniki/rashodnye_materialy-ASgBAgICAUSoAoYK)
