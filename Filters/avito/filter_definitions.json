@@ -1,0 +1,3334 @@
+{
+  "kategoriya_audio_i_video": {
+    "label": "Категория (Аудио и видео)",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "condition": {
+    "label": "Состояние",
+    "component": "button_group",
+    "frequency": 282,
+    "default_values": [
+      "Б/у",
+      "Новое",
+      "Все",
+      "Любое",
+      "Новые",
+      "Неважно",
+      "Отличное",
+      "Хорошее",
+      "Удовлетворительное",
+      "На запчасти",
+      "С пробегом",
+      "Новое с биркой",
+      "С наработкой",
+      "Кроме битых",
+      "Битые",
+      "Требуется ремонт",
+      "Новый",
+      "Б/У"
+    ]
+  },
+  "price": {
+    "label": "Цена, ₽",
+    "component": "range",
+    "frequency": 322,
+    "fields": [
+      "from",
+      "to"
+    ]
+  },
+  "sellers": {
+    "label": "Продавцы",
+    "component": "button_group",
+    "frequency": 390,
+    "default_values": [
+      "Частные",
+      "Компании",
+      "Все",
+      "4 звезды и выше",
+      "Рейтинг 4 звезды и выше",
+      "Компания проверена",
+      "Крупные компании",
+      "Агентства",
+      "4 звезды и выше (checkbox)",
+      "Застройщики",
+      "Частные лица",
+      "Официальный дилер",
+      "Дилеры",
+      "Компания",
+      "Неважно",
+      "Частный исполнитель",
+      "Компания или команда",
+      "С Авито Доставкой",
+      "Собственники и надежные партнеры"
+    ]
+  },
+  "contact_method": {
+    "label": "Способы связи",
+    "component": "button_group",
+    "frequency": 472
+  },
+  "extra": {
+    "label": "Дополнительно",
+    "component": "searchable_checklist",
+    "frequency": 373
+  },
+  "keywords": {
+    "label": "Слова в описании",
+    "component": "text_input",
+    "frequency": 556,
+    "default_values": [
+      "Что-то важное для вас",
+      "Что-то важное для вас (placeholder)",
+      "Placeholder: Что-то важное для вас",
+      "Искать только в названиях",
+      "placeholder: Что-то важное для вас",
+      "Например, iPhone 12",
+      "Искать только в названиях (checkbox)",
+      "Например, Apple iPad",
+      "Объявления с фото",
+      "Что-то важное для вас (textbox)"
+    ]
+  },
+  "tolko_rynochnye_tseny": {
+    "label": "Только рыночные цены",
+    "component": "checklist",
+    "frequency": 5
+  },
+  "4_zvezdy_i_vyshe": {
+    "label": "4 звезды и выше",
+    "component": "checklist",
+    "frequency": 5
+  },
+  "popular_searches": {
+    "label": "Часто ищут",
+    "component": "searchable_checklist",
+    "frequency": 130
+  },
+  "price_682f": {
+    "label": "Цена",
+    "component": "range",
+    "frequency": 29,
+    "fields": [
+      "from",
+      "to"
+    ]
+  },
+  "proizvoditel": {
+    "label": "Производитель",
+    "component": "searchable_checklist",
+    "frequency": 29
+  },
+  "tip_naushnikov": {
+    "label": "Тип наушников",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "konstruktsiya": {
+    "label": "Конструкция",
+    "component": "checklist",
+    "frequency": 2
+  },
+  "sposob_peredachi_signala": {
+    "label": "Способ передачи сигнала",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "osobennosti": {
+    "label": "Особенности",
+    "component": "checklist",
+    "frequency": 2
+  },
+  "format": {
+    "label": "Формат",
+    "component": "button_group",
+    "frequency": 2
+  },
+  "operator": {
+    "label": "Оператор",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "tarif": {
+    "label": "Тариф",
+    "component": "checklist",
+    "frequency": 3
+  },
+  "zvonki": {
+    "label": "Звонки",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "sms": {
+    "label": "Смс",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "internet": {
+    "label": "Интернет",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "rating": {
+    "label": "Рейтинг",
+    "component": "checklist",
+    "frequency": 82
+  },
+  "pamyat": {
+    "label": "Память",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "operativnaya_pamyat": {
+    "label": "Оперативная память",
+    "component": "checklist",
+    "frequency": 3
+  },
+  "sim_karty": {
+    "label": "SIM-карты",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "tsvet": {
+    "label": "Цвет",
+    "component": "searchable_checklist",
+    "frequency": 23
+  },
+  "kategoriya_aksessuary": {
+    "label": "Категория (Аксессуары)",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "seller_rating": {
+    "label": "Рейтинг продавца",
+    "component": "checklist",
+    "frequency": 66
+  },
+  "kategoriya": {
+    "label": "Категория",
+    "component": "searchable_checklist",
+    "frequency": 67
+  },
+  "prodavtsy_rejting": {
+    "label": "Продавцы (рейтинг)",
+    "component": "checklist",
+    "frequency": 3
+  },
+  "tip": {
+    "label": "Тип",
+    "component": "searchable_checklist",
+    "frequency": 9
+  },
+  "platforma": {
+    "label": "Платформа",
+    "component": "searchable_checklist",
+    "frequency": 1
+  },
+  "izdanie": {
+    "label": "Издание",
+    "component": "button_group",
+    "frequency": 1
+  },
+  "sortirovka": {
+    "label": "Сортировка",
+    "component": "dropdown",
+    "frequency": 3
+  },
+  "model": {
+    "label": "Модель",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "tip_noutbuka": {
+    "label": "Тип ноутбука",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "diagonal_ekrana_dyujm": {
+    "label": "Диагональ экрана, дюйм",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "linejka_protsessora": {
+    "label": "Линейка процессора",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "protsessor": {
+    "label": "Процессор",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "obem_operativnoj_pamyati": {
+    "label": "Объем оперативной памяти",
+    "component": "range",
+    "frequency": 2,
+    "fields": [
+      "from",
+      "to"
+    ]
+  },
+  "obschij_obem_nakopitelej": {
+    "label": "Общий объем накопителей",
+    "component": "range",
+    "frequency": 1,
+    "fields": [
+      "from",
+      "to"
+    ]
+  },
+  "obem_videopamyati": {
+    "label": "Объем видеопамяти",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "videokarta": {
+    "label": "Видеокарта",
+    "component": "checklist",
+    "frequency": 2
+  },
+  "razreshenie_ekrana": {
+    "label": "Разрешение экрана",
+    "component": "searchable_checklist",
+    "frequency": 2
+  },
+  "operatsionnaya_sistema": {
+    "label": "Операционная система",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "tip_sistemnogo_bloka": {
+    "label": "Тип системного блока",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "proizvoditel_protsessora": {
+    "label": "Производитель процессора",
+    "component": "dropdown",
+    "frequency": 1
+  },
+  "model_protsessora": {
+    "label": "Модель процессора",
+    "component": "dropdown",
+    "frequency": 1
+  },
+  "proizvoditel_videokarty": {
+    "label": "Производитель видеокарты",
+    "component": "dropdown",
+    "frequency": 1
+  },
+  "proizvoditel_materinskoj_platy": {
+    "label": "Производитель материнской платы",
+    "component": "dropdown",
+    "frequency": 1
+  },
+  "model_materinskoj_platy": {
+    "label": "Модель материнской платы",
+    "component": "searchable_dropdown",
+    "frequency": 1
+  },
+  "kategoriya_fototehnika": {
+    "label": "Категория (Фототехника)",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "bajonet": {
+    "label": "Байонет",
+    "component": "searchable_checklist",
+    "frequency": 1
+  },
+  "oborudovanie_i_aksessuary": {
+    "label": "Оборудование и аксессуары",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "brend": {
+    "label": "Бренд",
+    "component": "searchable_checklist",
+    "frequency": 33
+  },
+  "diagonal_ekrana": {
+    "label": "Диагональ экрана",
+    "component": "range",
+    "frequency": 2,
+    "fields": [
+      "from",
+      "to"
+    ]
+  },
+  "vstroennaya_pamyat": {
+    "label": "Встроенная память",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "slot_dlya_sim_karty": {
+    "label": "Слот для сим-карты",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "obem_vstroennoj_pamyati": {
+    "label": "Объем встроенной памяти",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "tip_svyazi": {
+    "label": "Тип связи",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "aksessuary_categories": {
+    "label": "Аксессуары (Categories)",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "dopolnitelno_k_prodavtsam": {
+    "label": "Дополнительно к продавцам",
+    "component": "checklist",
+    "frequency": 2
+  },
+  "promotions": {
+    "label": "Акции",
+    "component": "checklist",
+    "frequency": 13
+  },
+  "prodavtsy_dopolnitelno": {
+    "label": "Продавцы (дополнительно)",
+    "component": "checklist",
+    "frequency": 4
+  },
+  "vid_tovara": {
+    "label": "Вид товара",
+    "component": "searchable_checklist",
+    "frequency": 5
+  },
+  "material": {
+    "label": "Материал",
+    "component": "searchable_checklist",
+    "frequency": 4
+  },
+  "tip_okna": {
+    "label": "Тип окна",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "tip_otkryvaniya": {
+    "label": "Тип открывания",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "profilnaya_sistema": {
+    "label": "Профильная система",
+    "component": "dropdown",
+    "frequency": 1
+  },
+  "instrumenty": {
+    "label": "Инструменты",
+    "component": "checklist",
+    "frequency": 2
+  },
+  "product_collections": {
+    "label": "Подборки товаров",
+    "component": "checklist",
+    "frequency": 15
+  },
+  "availability": {
+    "label": "Доступность",
+    "component": "button_group",
+    "frequency": 17
+  },
+  "rating_4plus": {
+    "label": "Рейтинг 4 звезды и выше",
+    "component": "checklist",
+    "frequency": 35
+  },
+  "skryt_obyavleniya_so_slovami": {
+    "label": "Скрыть объявления со словами",
+    "component": "text_input",
+    "frequency": 2,
+    "placeholder": "Что-то важное для вас"
+  },
+  "kategorii": {
+    "label": "Категории",
+    "component": "checklist",
+    "frequency": 2
+  },
+  "pod_zakaz": {
+    "label": "Под заказ",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "poisk_po_nazvaniyam": {
+    "label": "Поиск по названиям",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "oblast_poiska": {
+    "label": "Область поиска",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "iskat_tolko_v_nazvaniyah": {
+    "label": "Искать только в названиях",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "dopolnitelno_prodavtsy": {
+    "label": "Дополнительно (Продавцы)",
+    "component": "checklist",
+    "frequency": 4
+  },
+  "monobuket": {
+    "label": "Монобукет",
+    "component": "button_group",
+    "frequency": 1
+  },
+  "sostav_buketa": {
+    "label": "Состав букета",
+    "component": "searchable_checklist",
+    "frequency": 1
+  },
+  "s_avito_dostavkoj": {
+    "label": "С Авито Доставкой",
+    "component": "checklist",
+    "frequency": 2
+  },
+  "rassrochka": {
+    "label": "Рассрочка",
+    "component": "checklist",
+    "frequency": 2
+  },
+  "velosipedy": {
+    "label": "Велосипеды",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "pol": {
+    "label": "Пол",
+    "component": "button_group",
+    "frequency": 11
+  },
+  "diametr_koles": {
+    "label": "Диаметр колес",
+    "component": "searchable_checklist",
+    "frequency": 4
+  },
+  "kolichestvo_koles": {
+    "label": "Количество колёс",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "proizvoditel_brend": {
+    "label": "Производитель (Бренд)",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "material_ramy": {
+    "label": "Материал рамы",
+    "component": "checklist",
+    "frequency": 3
+  },
+  "diametr_koles_dyujmov": {
+    "label": "Диаметр колес, дюймов",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "razmer_ramy": {
+    "label": "Размер рамы",
+    "component": "searchable_checklist",
+    "frequency": 2
+  },
+  "kolichestvo_skorostej": {
+    "label": "Количество скоростей",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "tip_tormozov": {
+    "label": "Тип тормозов",
+    "component": "checklist",
+    "frequency": 2
+  },
+  "amortizatsiya": {
+    "label": "Амортизация",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "tip_ramy": {
+    "label": "Тип рамы",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "tip_velosipeda": {
+    "label": "Тип велосипеда",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "tip_elektrovelosipeda": {
+    "label": "Тип электровелосипеда",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "skladnoj": {
+    "label": "Складной",
+    "component": "button_group",
+    "frequency": 1
+  },
+  "moschnost_dvigatelya_vt": {
+    "label": "Мощность двигателя, Вт",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "kollektsionirovanie": {
+    "label": "Коллекционирование",
+    "component": "dropdown",
+    "frequency": 1
+  },
+  "tip_tovara": {
+    "label": "Тип товара",
+    "component": "dropdown",
+    "frequency": 13
+  },
+  "komplektatsiya": {
+    "label": "Комплектация",
+    "component": "button_group",
+    "frequency": 2
+  },
+  "strana": {
+    "label": "Страна",
+    "component": "searchable_dropdown",
+    "frequency": 3
+  },
+  "denezhnaya_edinitsa": {
+    "label": "Денежная единица",
+    "component": "dropdown",
+    "frequency": 2
+  },
+  "nominal": {
+    "label": "Номинал",
+    "component": "searchable_checklist",
+    "frequency": 2
+  },
+  "god_vypuska": {
+    "label": "Год выпуска",
+    "component": "range",
+    "frequency": 29,
+    "fields": [
+      "from",
+      "to"
+    ]
+  },
+  "kartiny": {
+    "label": "Картины",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "period": {
+    "label": "Период",
+    "component": "button_group",
+    "frequency": 1
+  },
+  "tip_instrumenta": {
+    "label": "Тип инструмента",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "edinoborstva": {
+    "label": "Единоборства",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "razmer": {
+    "label": "Размер",
+    "component": "searchable_checklist",
+    "frequency": 9
+  },
+  "sezon": {
+    "label": "Сезон",
+    "component": "checklist",
+    "frequency": 6
+  },
+  "dlya_kogo": {
+    "label": "Для кого",
+    "component": "checklist",
+    "frequency": 2
+  },
+  "podlinnost": {
+    "label": "Подлинность",
+    "component": "checklist",
+    "frequency": 7
+  },
+  "tip_samokata_begovela": {
+    "label": "Тип самоката/беговела",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "maksimalnaya_nagruzka_kg": {
+    "label": "Максимальная нагрузка, кг",
+    "component": "range",
+    "frequency": 1,
+    "fields": [
+      "from",
+      "to"
+    ]
+  },
+  "location_search": {
+    "label": "Где искать",
+    "component": "text_input",
+    "frequency": 22,
+    "placeholder": "Что-то важное для вас"
+  },
+  "kolichestvo_komnat": {
+    "label": "Количество комнат",
+    "component": "checklist",
+    "frequency": 10
+  },
+  "tsena_za_m2": {
+    "label": "Цена за м²",
+    "component": "range",
+    "frequency": 6,
+    "fields": [
+      "from",
+      "to"
+    ]
+  },
+  "obschaya_ploschad": {
+    "label": "Общая площадь",
+    "component": "range",
+    "frequency": 8,
+    "fields": [
+      "from",
+      "to"
+    ]
+  },
+  "etazh": {
+    "label": "Этаж",
+    "component": "range",
+    "frequency": 15,
+    "fields": [
+      "from",
+      "to"
+    ]
+  },
+  "srok_sdachi": {
+    "label": "Срок сдачи",
+    "component": "dropdown",
+    "frequency": 2
+  },
+  "tip_zhilya": {
+    "label": "Тип жилья",
+    "component": "checklist",
+    "frequency": 12
+  },
+  "klass_zhilya": {
+    "label": "Класс жилья",
+    "component": "checklist",
+    "frequency": 2
+  },
+  "sposob_prodazhi": {
+    "label": "Способ продажи",
+    "component": "button_group",
+    "frequency": 5
+  },
+  "etap_stroitelstva": {
+    "label": "Этап строительства",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "peshkom_do_metro": {
+    "label": "Пешком до метро",
+    "component": "button_group",
+    "frequency": 1
+  },
+  "nadezhnost_zastrojschika": {
+    "label": "Надёжность застройщика",
+    "component": "checklist",
+    "frequency": 2
+  },
+  "proverili_dlya_vas": {
+    "label": "Проверили для вас",
+    "component": "checklist",
+    "frequency": 7
+  },
+  "sanuzel": {
+    "label": "Санузел",
+    "component": "checklist",
+    "frequency": 8
+  },
+  "okna": {
+    "label": "Окна",
+    "component": "checklist",
+    "frequency": 6
+  },
+  "etazhej_v_dome": {
+    "label": "Этажей в доме",
+    "component": "range",
+    "frequency": 11,
+    "fields": [
+      "from",
+      "to"
+    ]
+  },
+  "tip_doma": {
+    "label": "Тип дома",
+    "component": "checklist",
+    "frequency": 8
+  },
+  "lift": {
+    "label": "Лифт",
+    "component": "checklist",
+    "frequency": 6
+  },
+  "parkovka": {
+    "label": "Парковка",
+    "component": "searchable_checklist",
+    "frequency": 13
+  },
+  "otdelka": {
+    "label": "Отделка",
+    "component": "checklist",
+    "frequency": 5
+  },
+  "prochee": {
+    "label": "Прочее",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "skryt_obyavleniya": {
+    "label": "Скрыть объявления",
+    "component": "checklist",
+    "frequency": 4
+  },
+  "peshkom_do_metro_minut": {
+    "label": "Пешком до метро, минут",
+    "component": "button_group",
+    "frequency": 5
+  },
+  "god_postrojki_doma": {
+    "label": "Год постройки дома",
+    "component": "range",
+    "frequency": 4,
+    "fields": [
+      "from",
+      "to"
+    ]
+  },
+  "v_dome": {
+    "label": "В доме",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "remont": {
+    "label": "Ремонт",
+    "component": "checklist",
+    "frequency": 7
+  },
+  "ploschad_kuhni": {
+    "label": "Площадь кухни",
+    "component": "range",
+    "frequency": 5,
+    "fields": [
+      "from",
+      "to"
+    ]
+  },
+  "tip_komnat": {
+    "label": "Тип комнат",
+    "component": "checklist",
+    "frequency": 5
+  },
+  "balkon_ili_lodzhiya": {
+    "label": "Балкон или лоджия",
+    "component": "checklist",
+    "frequency": 5
+  },
+  "vysota_potolkov_m": {
+    "label": "Высота потолков, м",
+    "component": "checklist",
+    "frequency": 4
+  },
+  "vid_obekta": {
+    "label": "Вид объекта",
+    "component": "checklist",
+    "frequency": 7
+  },
+  "ploschad_doma": {
+    "label": "Площадь дома",
+    "component": "range",
+    "frequency": 2,
+    "fields": [
+      "from",
+      "to"
+    ]
+  },
+  "ploschad_uchastka": {
+    "label": "Площадь участка",
+    "component": "range",
+    "frequency": 2,
+    "fields": [
+      "from",
+      "to"
+    ]
+  },
+  "rasstoyanie_ot_kad": {
+    "label": "Расстояние от КАД",
+    "component": "range",
+    "frequency": 2,
+    "fields": [
+      "from",
+      "to"
+    ]
+  },
+  "kategoriya_zemel": {
+    "label": "Категория земель",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "kommunikatsii": {
+    "label": "Коммуникации",
+    "component": "checklist",
+    "frequency": 3
+  },
+  "dlya_otdyha": {
+    "label": "Для отдыха",
+    "component": "checklist",
+    "frequency": 2
+  },
+  "material_sten": {
+    "label": "Материал стен",
+    "component": "checklist",
+    "frequency": 2
+  },
+  "transportnaya_dostupnost": {
+    "label": "Транспортная доступность",
+    "component": "checklist",
+    "frequency": 2
+  },
+  "komnat_v_kvartire": {
+    "label": "Комнат в квартире",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "ploschad_komnaty": {
+    "label": "Площадь комнаты",
+    "component": "range",
+    "frequency": 2,
+    "fields": [
+      "from",
+      "to"
+    ]
+  },
+  "zaezd_i_vyezd": {
+    "label": "Заезд и выезд",
+    "component": "checklist",
+    "frequency": 2
+  },
+  "gosti": {
+    "label": "Гости",
+    "component": "dropdown",
+    "frequency": 4
+  },
+  "status_arendodatelya": {
+    "label": "Статус арендодателя",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "usloviya_bronirovaniya": {
+    "label": "Условия бронирования",
+    "component": "checklist",
+    "frequency": 2
+  },
+  "rejting_zhilya": {
+    "label": "Рейтинг жилья",
+    "component": "button_group",
+    "frequency": 1
+  },
+  "usloviya_zaezda": {
+    "label": "Условия заезда",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "utochnit_tip_zhilya": {
+    "label": "Уточнить тип жилья",
+    "component": "button_group",
+    "frequency": 3
+  },
+  "internet_i_tv": {
+    "label": "Интернет и ТВ",
+    "component": "checklist",
+    "frequency": 3
+  },
+  "tehnika": {
+    "label": "Техника",
+    "component": "searchable_checklist",
+    "frequency": 9
+  },
+  "komfort": {
+    "label": "Комфорт",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "komnaty": {
+    "label": "Комнаты",
+    "component": "dropdown",
+    "frequency": 1
+  },
+  "krovati": {
+    "label": "Кровати",
+    "component": "dropdown",
+    "frequency": 1
+  },
+  "pravila": {
+    "label": "Правила",
+    "component": "checklist",
+    "frequency": 3
+  },
+  "tochnye_daty": {
+    "label": "Точные даты",
+    "component": "button_group",
+    "frequency": 1
+  },
+  "tsena_za_sutki_rub": {
+    "label": "Цена за сутки, ₽",
+    "component": "range",
+    "frequency": 1,
+    "fields": [
+      "from",
+      "to"
+    ]
+  },
+  "peshkom_do_metro_min": {
+    "label": "Пешком до метро, мин.",
+    "component": "button_group",
+    "frequency": 1
+  },
+  "ploschad_zhilya": {
+    "label": "Площадь жилья",
+    "component": "range",
+    "frequency": 1,
+    "fields": [
+      "from",
+      "to"
+    ]
+  },
+  "zaselenie_i_vyezd": {
+    "label": "Заселение и выезд",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "kolichestvo_zvezd": {
+    "label": "Количество звёзд",
+    "component": "button_group",
+    "frequency": 1
+  },
+  "pitanie": {
+    "label": "Питание",
+    "component": "button_group",
+    "frequency": 1
+  },
+  "udobstva": {
+    "label": "Удобства",
+    "component": "searchable_checklist",
+    "frequency": 2
+  },
+  "razvlecheniya": {
+    "label": "Развлечения",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "dostupnaya_sreda": {
+    "label": "Доступная среда",
+    "component": "button_group",
+    "frequency": 1
+  },
+  "tip_sdelki_osnovnoj": {
+    "label": "Тип сделки (основной)",
+    "component": "dropdown",
+    "frequency": 1
+  },
+  "klass_zdaniya": {
+    "label": "Класс здания",
+    "component": "button_group",
+    "frequency": 3
+  },
+  "ploschad": {
+    "label": "Площадь",
+    "component": "range",
+    "frequency": 5,
+    "fields": [
+      "from",
+      "to"
+    ]
+  },
+  "pomeschenie_s_arendatorom_gab": {
+    "label": "Помещение с арендатором (ГАБ)",
+    "component": "button_group",
+    "frequency": 4
+  },
+  "nadezhnyj_vybor": {
+    "label": "Надёжный выбор",
+    "component": "checklist",
+    "frequency": 4
+  },
+  "tip_zdaniya": {
+    "label": "Тип здания",
+    "component": "checklist",
+    "frequency": 4
+  },
+  "tip_planirovki": {
+    "label": "Тип планировки",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "tip_sdelki": {
+    "label": "Тип сделки",
+    "component": "checklist",
+    "frequency": 6
+  },
+  "vhod": {
+    "label": "Вход",
+    "component": "checklist",
+    "frequency": 2
+  },
+  "vid_sdelki": {
+    "label": "Вид сделки",
+    "component": "button_group",
+    "frequency": 1
+  },
+  "arendnaya_plata": {
+    "label": "Арендная плата",
+    "component": "range",
+    "frequency": 1,
+    "fields": [
+      "from",
+      "to"
+    ]
+  },
+  "period_arendy": {
+    "label": "Период аренды",
+    "component": "button_group",
+    "frequency": 1
+  },
+  "ploschad_obekta": {
+    "label": "Площадь объекта",
+    "component": "range",
+    "frequency": 2,
+    "fields": [
+      "from",
+      "to"
+    ]
+  },
+  "god_postrojki": {
+    "label": "Год постройки",
+    "component": "range",
+    "frequency": 2,
+    "fields": [
+      "from",
+      "to"
+    ]
+  },
+  "etazhnost": {
+    "label": "Этажность",
+    "component": "range",
+    "frequency": 1,
+    "fields": [
+      "from",
+      "to"
+    ]
+  },
+  "novye_obyavleniya": {
+    "label": "Новые объявления",
+    "component": "checklist",
+    "frequency": 3
+  },
+  "tsena_arendnaya_plata_za_mesyats_rub": {
+    "label": "Цена (Арендная плата за месяц, ₽)",
+    "component": "range",
+    "frequency": 1,
+    "fields": [
+      "from",
+      "to"
+    ]
+  },
+  "usloviya_arendy": {
+    "label": "Условия аренды",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "arendodateli_prodavtsy": {
+    "label": "Арендодатели (Продавцы)",
+    "component": "button_group",
+    "frequency": 1
+  },
+  "mebel": {
+    "label": "Мебель",
+    "component": "checklist",
+    "frequency": 2
+  },
+  "fotografii": {
+    "label": "Фотографии",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "rent_price": {
+    "label": "Арендная плата за месяц, ₽",
+    "component": "range",
+    "frequency": 1,
+    "fields": [
+      "from",
+      "to"
+    ]
+  },
+  "arendnaya_plata_dopolnitelno": {
+    "label": "Арендная плата (дополнительно)",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "etazh_dopolnitelno": {
+    "label": "Этаж (дополнительно)",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "arendodateli": {
+    "label": "Арендодатели",
+    "component": "button_group",
+    "frequency": 2
+  },
+  "arendnaya_plata_v_mesyats": {
+    "label": "Арендная плата, в месяц",
+    "component": "range",
+    "frequency": 1,
+    "fields": [
+      "from",
+      "to"
+    ]
+  },
+  "obyavleniya_s_foto": {
+    "label": "Объявления с фото",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "region_pokupki": {
+    "label": "Регион покупки",
+    "component": "dropdown",
+    "frequency": 1
+  },
+  "tip_nedvizhimosti": {
+    "label": "Тип недвижимости",
+    "component": "button_group",
+    "frequency": 2
+  },
+  "stoimost_zhilya": {
+    "label": "Стоимость жилья",
+    "component": "range",
+    "frequency": 1,
+    "fields": [
+      "from",
+      "to"
+    ]
+  },
+  "pervonachalnyj_vznos": {
+    "label": "Первоначальный взнос",
+    "component": "range",
+    "frequency": 1,
+    "fields": [
+      "from",
+      "to"
+    ]
+  },
+  "srok_kredita": {
+    "label": "Срок кредита",
+    "component": "range",
+    "frequency": 1,
+    "fields": [
+      "from",
+      "to"
+    ]
+  },
+  "ipotechnaya_programma": {
+    "label": "Ипотечная программа",
+    "component": "button_group",
+    "frequency": 1
+  },
+  "vash_vozrast": {
+    "label": "Ваш возраст",
+    "component": "button_group",
+    "frequency": 1
+  },
+  "tip_zanyatosti": {
+    "label": "Тип занятости",
+    "component": "button_group",
+    "frequency": 6
+  },
+  "obschij_trudovoj_stazh": {
+    "label": "Общий трудовой стаж",
+    "component": "button_group",
+    "frequency": 1
+  },
+  "stazh_na_tekuschej_rabote": {
+    "label": "Стаж на текущей работе",
+    "component": "button_group",
+    "frequency": 1
+  },
+  "podtverzhdenie_dohoda": {
+    "label": "Подтверждение дохода",
+    "component": "button_group",
+    "frequency": 1
+  },
+  "usluga": {
+    "label": "Услуга",
+    "component": "searchable_dropdown",
+    "frequency": 79
+  },
+  "service_when": {
+    "label": "Когда нужна услуга",
+    "component": "checklist",
+    "frequency": 111,
+    "default_values": [
+      "Сегодня",
+      "Завтра",
+      "Сейчас",
+      "Понедельник",
+      "Вторник",
+      "Среда",
+      "Четверг",
+      "Пятница",
+      "Суббота",
+      "Воскресенье",
+      "Работа по договору",
+      "Cегодня",
+      "На этой неделе"
+    ]
+  },
+  "service_provider_type": {
+    "label": "Кто оказывает услуги",
+    "component": "checklist",
+    "frequency": 120,
+    "default_values": [
+      "Частный исполнитель",
+      "Компания или команда",
+      "Сервисный центр",
+      "Частники",
+      "Компании",
+      "Частное лицо",
+      "Компания"
+    ]
+  },
+  "performer_status": {
+    "label": "Статус исполнителя",
+    "component": "checklist",
+    "frequency": 145,
+    "default_values": [
+      "Надёжный исполнитель",
+      "Надёжный исполнитель (Следит за репутацией)",
+      "Рейтинг 4 звезды и выше",
+      "Надёжный исполнитель / Следит за репутацией",
+      "4 звезды и выше",
+      "Следит за репутацией"
+    ]
+  },
+  "performer_rating": {
+    "label": "Рейтинг исполнителя",
+    "component": "checklist",
+    "frequency": 140,
+    "default_values": [
+      "Рейтинг 4 звезды и выше",
+      "4 звезды и выше",
+      "Рейтинг исполнителя 4 звезды и выше"
+    ]
+  },
+  "experience": {
+    "label": "Опыт работы",
+    "component": "searchable_dropdown",
+    "frequency": 119
+  },
+  "gde_rabotaet_ispolnitel": {
+    "label": "Где работает исполнитель",
+    "component": "checklist",
+    "frequency": 26
+  },
+  "work_guarantee": {
+    "label": "Гарантия на работу",
+    "component": "button_group",
+    "frequency": 49
+  },
+  "s_predoplatoj": {
+    "label": "С предоплатой",
+    "component": "button_group",
+    "frequency": 22
+  },
+  "vyezd_ispolnitelya_k_vam": {
+    "label": "Выезд исполнителя к вам",
+    "component": "button_group",
+    "frequency": 7
+  },
+  "for_business": {
+    "label": "Услуга для юрлица или ИП",
+    "component": "button_group",
+    "frequency": 42
+  },
+  "price_services": {
+    "label": "Стоимость, ₽",
+    "component": "range",
+    "frequency": 134,
+    "default_values": [
+      "до",
+      "От",
+      "от",
+      "До",
+      "От (минимальная цена)",
+      "до (максимальная цена)",
+      "Аренда с НДС (чекбокс)"
+    ]
+  },
+  "kolichestvo_spalnyh_mest": {
+    "label": "Количество спальных мест",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "pravila_prozhivaniya": {
+    "label": "Правила проживания",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "status_hozyaina": {
+    "label": "Статус хозяина",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "tip_obyavleniya": {
+    "label": "Тип объявления",
+    "component": "button_group",
+    "frequency": 4
+  },
+  "rynok": {
+    "label": "Рынок",
+    "component": "button_group",
+    "frequency": 1
+  },
+  "tip_predlozheniya": {
+    "label": "Тип предложения",
+    "component": "dropdown",
+    "frequency": 1
+  },
+  "ploschad_m2": {
+    "label": "Площадь, м²",
+    "component": "range",
+    "frequency": 1,
+    "fields": [
+      "from",
+      "to"
+    ]
+  },
+  "ohrana": {
+    "label": "Охрана",
+    "component": "button_group",
+    "frequency": 1
+  },
+  "sellers_services": {
+    "label": "Исполнители",
+    "component": "button_group",
+    "frequency": 29
+  },
+  "chem_zanimaetsya_ispolnitel": {
+    "label": "Чем занимается исполнитель",
+    "component": "searchable_dropdown",
+    "frequency": 17
+  },
+  "rejting_ispolnitelya_4_zvezdy_i_vyshe": {
+    "label": "Рейтинг исполнителя 4 звезды и выше",
+    "component": "checklist",
+    "frequency": 2
+  },
+  "vid_transporta": {
+    "label": "Вид транспорта",
+    "component": "dropdown",
+    "frequency": 3
+  },
+  "rasstoyanie_poezdki": {
+    "label": "Расстояние поездки",
+    "component": "dropdown",
+    "frequency": 3
+  },
+  "chislo_mest": {
+    "label": "Число мест",
+    "component": "range",
+    "frequency": 3,
+    "fields": [
+      "from",
+      "to"
+    ]
+  },
+  "individualnyj_transfer": {
+    "label": "Индивидуальный трансфер",
+    "component": "button_group",
+    "frequency": 1
+  },
+  "transport": {
+    "label": "Транспорт",
+    "component": "dropdown",
+    "frequency": 2
+  },
+  "garantiya": {
+    "label": "Гарантия",
+    "component": "button_group",
+    "frequency": 3
+  },
+  "kamera_nablyudeniya_v_remontnoj_zone": {
+    "label": "Камера наблюдения в ремонтной зоне",
+    "component": "button_group",
+    "frequency": 2
+  },
+  "s_operatorom": {
+    "label": "С оператором",
+    "component": "button_group",
+    "frequency": 11
+  },
+  "srok_arendy": {
+    "label": "Срок аренды",
+    "component": "range",
+    "frequency": 11,
+    "fields": [
+      "from",
+      "to"
+    ]
+  },
+  "rabota_s_yurlitsami_i_ip": {
+    "label": "Работа с юрлицами и ИП",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "chislo_gruzchikov": {
+    "label": "Число грузчиков",
+    "component": "button_group",
+    "frequency": 1
+  },
+  "ispolniteli_dopolnitelno": {
+    "label": "Исполнители (дополнительно)",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "dopolnitelno_stoimost": {
+    "label": "Дополнительно (Стоимость)",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "minimalnoe_vremya_zakaza": {
+    "label": "Минимальное время заказа",
+    "component": "range",
+    "frequency": 1,
+    "fields": [
+      "from",
+      "to"
+    ]
+  },
+  "obem_rabot": {
+    "label": "Объём работ",
+    "component": "checklist",
+    "frequency": 2
+  },
+  "stoimost_rub_tsena": {
+    "label": "Стоимость, ₽ (Цена)",
+    "component": "range",
+    "frequency": 3,
+    "fields": [
+      "from",
+      "to"
+    ]
+  },
+  "kto_okazyvaet_uslugi_prodavtsy": {
+    "label": "Кто оказывает услуги (Продавцы)",
+    "component": "checklist",
+    "frequency": 4
+  },
+  "contract_work": {
+    "label": "Работа по договору",
+    "component": "button_group",
+    "frequency": 58
+  },
+  "ispolnitel_zakupaet_materialy": {
+    "label": "Исполнитель закупает материалы",
+    "component": "button_group",
+    "frequency": 35
+  },
+  "chem_zajmetsya_ispolnitel": {
+    "label": "Чем займётся исполнитель",
+    "component": "searchable_dropdown",
+    "frequency": 27
+  },
+  "raboty": {
+    "label": "Работы",
+    "component": "searchable_checklist",
+    "frequency": 8
+  },
+  "vid_zhilogo_pomescheniya": {
+    "label": "Вид жилого помещения",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "vid_nezhilogo_pomescheniya": {
+    "label": "Вид нежилого помещения",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "stil_rabot": {
+    "label": "Стиль работ",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "nadezhnyj_ispolnitel": {
+    "label": "Надёжный исполнитель",
+    "component": "checklist",
+    "frequency": 3
+  },
+  "obekty": {
+    "label": "Объекты",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "chem_zajmetcya_icpolnitel": {
+    "label": "Чем займётcя иcполнитель",
+    "component": "dropdown",
+    "frequency": 1
+  },
+  "ucluga": {
+    "label": "Уcлуга",
+    "component": "dropdown",
+    "frequency": 1
+  },
+  "kogda_nuzhna_ucluga": {
+    "label": "Когда нужна уcлуга",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "zamok": {
+    "label": "Замок",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "kto_okazyvaet_uclugi": {
+    "label": "Кто оказывает уcлуги",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "ctatuc_icpolnitelya": {
+    "label": "Cтатуc иcполнителя",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "rejting_icpolnitelya": {
+    "label": "Рейтинг иcполнителя",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "ctoimoct_rub": {
+    "label": "Cтоимоcть, ₽",
+    "component": "range",
+    "frequency": 1,
+    "fields": [
+      "from",
+      "to"
+    ]
+  },
+  "icpolnitel_zakupaet_materialy": {
+    "label": "Иcполнитель закупает материалы",
+    "component": "button_group",
+    "frequency": 1
+  },
+  "cpocoby_cvyazi": {
+    "label": "Cпоcобы cвязи",
+    "component": "button_group",
+    "frequency": 1
+  },
+  "clova_v_opicanii": {
+    "label": "Cлова в опиcании",
+    "component": "text_input",
+    "frequency": 1,
+    "placeholder": "Что-то важное для вас"
+  },
+  "obekt": {
+    "label": "Объект",
+    "component": "searchable_checklist",
+    "frequency": 5
+  },
+  "mehanizm": {
+    "label": "Механизм",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "obekty_pod_shtukaturku": {
+    "label": "Объекты под штукатурку",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "nanesenie_pokrytiya": {
+    "label": "Нанесение покрытия",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "potolki": {
+    "label": "Потолки",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "tip_konstruktsii": {
+    "label": "Тип конструкции",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "ispolnitel_perevozit": {
+    "label": "Исполнитель перевозит",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "vyezd": {
+    "label": "Выезд",
+    "component": "button_group",
+    "frequency": 1
+  },
+  "sposob_pogruzki": {
+    "label": "Способ погрузки",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "gruzopodemnost": {
+    "label": "Грузоподъёмность",
+    "component": "range",
+    "frequency": 4,
+    "fields": [
+      "from",
+      "to"
+    ]
+  },
+  "rabota_s_ipotekoj": {
+    "label": "Работа с ипотекой",
+    "component": "button_group",
+    "frequency": 1
+  },
+  "chto_postroit": {
+    "label": "Что построить",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "materialy": {
+    "label": "Материалы",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "krysha": {
+    "label": "Крыша",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "material_pokrytiya": {
+    "label": "Материал покрытия",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "obekt_rabot": {
+    "label": "Объект работ",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "obekty_snosa_i_demontazha": {
+    "label": "Объекты сноса и демонтажа",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "sposob_raboty": {
+    "label": "Способ работы",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "fasad": {
+    "label": "Фасад",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "dopolnitelnye_raboty": {
+    "label": "Дополнительные работы",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "vid_uslugi": {
+    "label": "Вид услуги",
+    "component": "searchable_checklist",
+    "frequency": 3
+  },
+  "tip_lestnitsy": {
+    "label": "Тип лестницы",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "rajon_metro": {
+    "label": "Район / Метро",
+    "component": "dropdown",
+    "frequency": 1
+  },
+  "radius_poiska": {
+    "label": "Радиус поиска",
+    "component": "dropdown",
+    "frequency": 1
+  },
+  "opyt_raboty_ispolnitelya": {
+    "label": "Опыт работы исполнителя",
+    "component": "range",
+    "frequency": 1,
+    "fields": [
+      "from",
+      "to"
+    ]
+  },
+  "podhodyaschie_dni_dlya_raboty": {
+    "label": "Подходящие дни для работы",
+    "component": "checklist",
+    "frequency": 24
+  },
+  "udobnoe_dlya_raboty_vremya": {
+    "label": "Удобное для работы время",
+    "component": "range",
+    "frequency": 7,
+    "fields": [
+      "from",
+      "to"
+    ]
+  },
+  "tsena_stoimost_rub": {
+    "label": "Цена (Стоимость, ₽)",
+    "component": "range",
+    "frequency": 3,
+    "fields": [
+      "from",
+      "to"
+    ]
+  },
+  "prodavtsy_kto_okazyvaet_uslugi": {
+    "label": "Продавцы (Кто оказывает услуги)",
+    "component": "checklist",
+    "frequency": 3
+  },
+  "employment_type": {
+    "label": "Занятость",
+    "component": "checklist",
+    "frequency": 55
+  },
+  "nalichie_transporta": {
+    "label": "Наличие транспорта",
+    "component": "button_group",
+    "frequency": 1
+  },
+  "chto_vykopat": {
+    "label": "Что выкопать",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "kakoj_material_dostavit": {
+    "label": "Какой материал доставить",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "vodoem": {
+    "label": "Водоём",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "pol_ispolnitelya": {
+    "label": "Пол исполнителя",
+    "component": "button_group",
+    "frequency": 13
+  },
+  "s_kem_rabotaet_ispolnitel": {
+    "label": "С кем работает исполнитель",
+    "component": "button_group",
+    "frequency": 10
+  },
+  "mesto_vstrechi": {
+    "label": "Место встречи",
+    "component": "checklist",
+    "frequency": 11
+  },
+  "onlajn_zapis": {
+    "label": "Онлайн-запись",
+    "component": "checklist",
+    "frequency": 9
+  },
+  "tip_uslugi": {
+    "label": "Тип услуги",
+    "component": "searchable_checklist",
+    "frequency": 3
+  },
+  "mesto_sdelki": {
+    "label": "Место сделки",
+    "component": "dropdown",
+    "frequency": 1
+  },
+  "proizvoditeli": {
+    "label": "Производители",
+    "component": "searchable_checklist",
+    "frequency": 7
+  },
+  "psihologicheskij_podhod": {
+    "label": "Психологический подход",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "format_konsultatsii": {
+    "label": "Формат консультации",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "napravlenie": {
+    "label": "Направление",
+    "component": "searchable_dropdown",
+    "frequency": 11
+  },
+  "podhodyaschie_dni_dlya_zanyatij": {
+    "label": "Подходящие дни для занятий",
+    "component": "checklist",
+    "frequency": 10
+  },
+  "prepodavatel": {
+    "label": "Преподаватель",
+    "component": "button_group",
+    "frequency": 10
+  },
+  "zanyatiya": {
+    "label": "Занятия",
+    "component": "checklist",
+    "frequency": 10
+  },
+  "trener_master_sporta": {
+    "label": "Тренер — мастер спорта",
+    "component": "button_group",
+    "frequency": 1
+  },
+  "rabota_s_tehnikoj_premium_klassa": {
+    "label": "Работа с техникой премиум-класса",
+    "component": "button_group",
+    "frequency": 8
+  },
+  "televizor": {
+    "label": "Телевизор",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "konditsioner": {
+    "label": "Кондиционер",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "vysotnye_raboty": {
+    "label": "Высотные работы",
+    "component": "button_group",
+    "frequency": 1
+  },
+  "ustrojstvo": {
+    "label": "Устройство",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "varochnaya_panel": {
+    "label": "Варочная панель",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "duhovoj_shkaf": {
+    "label": "Духовой шкаф",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "plita": {
+    "label": "Плита",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "vid_uslug": {
+    "label": "Вид услуг",
+    "component": "searchable_checklist",
+    "frequency": 1
+  },
+  "predmet_ili_spetsialnost": {
+    "label": "Предмет или специальность",
+    "component": "searchable_dropdown",
+    "frequency": 5
+  },
+  "leksika": {
+    "label": "Лексика",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "spetsialnost": {
+    "label": "Специальность",
+    "component": "dropdown",
+    "frequency": 1
+  },
+  "doplata_za_benzin": {
+    "label": "Доплата за бензин",
+    "component": "button_group",
+    "frequency": 1
+  },
+  "instrument": {
+    "label": "Инструмент",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "sistemy_nalogooblozheniya": {
+    "label": "Системы налогообложения",
+    "component": "dropdown",
+    "frequency": 1
+  },
+  "s_zaschitoj_sdelki": {
+    "label": "С «Защитой сделки»",
+    "component": "checklist",
+    "frequency": 3
+  },
+  "kogda_nuzhna_usluga_chastotnost": {
+    "label": "Когда нужна услуга (частотность)",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "kogda_nuzhna_usluga_dni_nedeli": {
+    "label": "Когда нужна услуга (дни недели)",
+    "component": "checklist",
+    "frequency": 2
+  },
+  "tipy_sudov": {
+    "label": "Типы судов",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "komandirovka": {
+    "label": "Командировка",
+    "component": "button_group",
+    "frequency": 1
+  },
+  "besplatnaya_konsultatsiya": {
+    "label": "Бесплатная консультация",
+    "component": "button_group",
+    "frequency": 2
+  },
+  "rabochie_dni": {
+    "label": "Рабочие дни",
+    "component": "checklist",
+    "frequency": 9
+  },
+  "kakoj_musor_nuzhno_vyvezti": {
+    "label": "Какой мусор нужно вывезти",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "vyezd_v_den_zakaza": {
+    "label": "Выезд в день заказа",
+    "component": "button_group",
+    "frequency": 7
+  },
+  "skolko_ispolnitelej_ponadobitsya": {
+    "label": "Сколько исполнителей понадобится",
+    "component": "dropdown",
+    "frequency": 7
+  },
+  "vyezd_za_gorod": {
+    "label": "Выезд за город",
+    "component": "button_group",
+    "frequency": 2
+  },
+  "sposob_oplaty": {
+    "label": "Способ оплаты",
+    "component": "checklist",
+    "frequency": 2
+  },
+  "pomeschenie": {
+    "label": "Помещение",
+    "component": "checklist",
+    "frequency": 6
+  },
+  "chto_nuzhno_sdat": {
+    "label": "Что нужно сдать",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "zadacha": {
+    "label": "Задача",
+    "component": "searchable_checklist",
+    "frequency": 5
+  },
+  "sredstva_dlya_uborki": {
+    "label": "Средства для уборки",
+    "component": "button_group",
+    "frequency": 2
+  },
+  "kakie_sredstva_nuzhny": {
+    "label": "Какие средства нужны",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "tip_pomescheniya": {
+    "label": "Тип помещения",
+    "component": "button_group",
+    "frequency": 1
+  },
+  "oborudovanie_dlya_uborki": {
+    "label": "Оборудование для уборки",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "kakaya_mebel": {
+    "label": "Какая мебель",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "iz_kakogo_materiala_mebel": {
+    "label": "Из какого материала мебель",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "mesto_okazaniya_uslug": {
+    "label": "Место оказания услуг",
+    "component": "checklist",
+    "frequency": 2
+  },
+  "kakoj_sposob_podojdet": {
+    "label": "Какой способ подойдёт",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "problema": {
+    "label": "Проблема",
+    "component": "searchable_checklist",
+    "frequency": 1
+  },
+  "chto_nuzhno_obrabotat": {
+    "label": "Что нужно обработать",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "iz_kakogo_materiala_izdelie": {
+    "label": "Из какого материала изделие",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "kto_predostavit_materialy": {
+    "label": "Кто предоставит материалы",
+    "component": "button_group",
+    "frequency": 1
+  },
+  "oplata": {
+    "label": "Оплата",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "tip_chasov": {
+    "label": "Тип часов",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "kakoj_kamen": {
+    "label": "Какой камень",
+    "component": "searchable_checklist",
+    "frequency": 1
+  },
+  "kakoj_material": {
+    "label": "Какой материал",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "dopolnitelnye_uslugi": {
+    "label": "Дополнительные услуги",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "chto_dekorirovat": {
+    "label": "Что декорировать",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "meropriyatie": {
+    "label": "Мероприятие",
+    "component": "searchable_checklist",
+    "frequency": 4
+  },
+  "auditoriya": {
+    "label": "Аудитория",
+    "component": "checklist",
+    "frequency": 4
+  },
+  "na_skolko_vremeni_nuzhen_spetsialist": {
+    "label": "На сколько времени нужен специалист",
+    "component": "range",
+    "frequency": 4,
+    "fields": [
+      "from",
+      "to"
+    ]
+  },
+  "meropriyatie_v_prazdnik_ili_vyhodnoj": {
+    "label": "Мероприятие в праздник или выходной",
+    "component": "button_group",
+    "frequency": 4
+  },
+  "chto_arendovat": {
+    "label": "Что арендовать",
+    "component": "dropdown",
+    "frequency": 1
+  },
+  "transfer": {
+    "label": "Трансфер",
+    "component": "button_group",
+    "frequency": 1
+  },
+  "muzykalnaya_apparatura": {
+    "label": "Музыкальная аппаратура",
+    "component": "button_group",
+    "frequency": 1
+  },
+  "chto_dostavit": {
+    "label": "Что доставить",
+    "component": "dropdown",
+    "frequency": 1
+  },
+  "srok_oformleniya_zakaza": {
+    "label": "Срок оформления заказа",
+    "component": "range",
+    "frequency": 3,
+    "fields": [
+      "from",
+      "to"
+    ]
+  },
+  "dostavka_v_nochnoe_vremya": {
+    "label": "Доставка в ночное время",
+    "component": "button_group",
+    "frequency": 1
+  },
+  "skidka_za_kolichestvo": {
+    "label": "Скидка за количество",
+    "component": "button_group",
+    "frequency": 1
+  },
+  "chto_gotovit_ispolnitel": {
+    "label": "Что готовит исполнитель",
+    "component": "dropdown",
+    "frequency": 1
+  },
+  "spetsializatsiya": {
+    "label": "Специализация",
+    "component": "dropdown",
+    "frequency": 2
+  },
+  "minimalnaya_summa_zakaza": {
+    "label": "Минимальная сумма заказа",
+    "component": "range",
+    "frequency": 3,
+    "fields": [
+      "from",
+      "to"
+    ]
+  },
+  "kolichestvo_uchastnikov": {
+    "label": "Количество участников",
+    "component": "dropdown",
+    "frequency": 2
+  },
+  "oborudovanie": {
+    "label": "Оборудование",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "osobennosti_studii": {
+    "label": "Особенности студии",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "fon": {
+    "label": "Фон",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "podbor_studii": {
+    "label": "Подбор студии",
+    "component": "button_group",
+    "frequency": 1
+  },
+  "sozdanie_obraza": {
+    "label": "Создание образа",
+    "component": "button_group",
+    "frequency": 1
+  },
+  "podgotovka_pomescheniya_k_semke": {
+    "label": "Подготовка помещения к съёмке",
+    "component": "button_group",
+    "frequency": 1
+  },
+  "kakoe_zhivotnoe": {
+    "label": "Какое животное",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "vyezd_na_dom": {
+    "label": "Выезд на дом",
+    "component": "button_group",
+    "frequency": 1
+  },
+  "metod_raboty": {
+    "label": "Метод работы",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "srok_vypolneniya": {
+    "label": "Срок выполнения",
+    "component": "dropdown",
+    "frequency": 4
+  },
+  "predoplata": {
+    "label": "Предоплата",
+    "component": "button_group",
+    "frequency": 4
+  },
+  "mesto_okazaniya_uslugi": {
+    "label": "Место оказания услуги",
+    "component": "checklist",
+    "frequency": 2
+  },
+  "tip_obekta": {
+    "label": "Тип объекта",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "marka": {
+    "label": "Марка",
+    "component": "searchable_checklist",
+    "frequency": 25
+  },
+  "tip_dvigatelya": {
+    "label": "Тип двигателя",
+    "component": "checklist",
+    "frequency": 13
+  },
+  "obem_dvigatelya": {
+    "label": "Объём двигателя",
+    "component": "range",
+    "frequency": 10,
+    "fields": [
+      "from",
+      "to"
+    ]
+  },
+  "moschnost": {
+    "label": "Мощность",
+    "component": "range",
+    "frequency": 11,
+    "fields": [
+      "from",
+      "to"
+    ]
+  },
+  "probeg": {
+    "label": "Пробег",
+    "component": "range",
+    "frequency": 9,
+    "fields": [
+      "from",
+      "to"
+    ]
+  },
+  "dostavka": {
+    "label": "Доставка",
+    "component": "checklist",
+    "frequency": 3
+  },
+  "strana_proishozhdeniya_brenda": {
+    "label": "Страна происхождения бренда",
+    "component": "searchable_checklist",
+    "frequency": 5
+  },
+  "maksimalno_passazhirov": {
+    "label": "Максимально пассажиров",
+    "component": "range",
+    "frequency": 4,
+    "fields": [
+      "from",
+      "to"
+    ]
+  },
+  "shirina_gusenitsy": {
+    "label": "Ширина гусеницы",
+    "component": "range",
+    "frequency": 1,
+    "fields": [
+      "from",
+      "to"
+    ]
+  },
+  "sposoby_dostavki": {
+    "label": "Способы доставки",
+    "component": "checklist",
+    "frequency": 2
+  },
+  "podacha_topliva": {
+    "label": "Подача топлива",
+    "component": "text_input",
+    "frequency": 1,
+    "placeholder": "Что-то важное для вас"
+  },
+  "chislo_taktov": {
+    "label": "Число тактов",
+    "component": "text_input",
+    "frequency": 1,
+    "placeholder": "Что-то важное для вас"
+  },
+  "korobka_peredach": {
+    "label": "Коробка передач",
+    "component": "checklist",
+    "frequency": 10
+  },
+  "tip_sudna": {
+    "label": "Тип судна",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "material_korpusa": {
+    "label": "Материал корпуса",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "dlina_m": {
+    "label": "Длина, м",
+    "component": "range",
+    "frequency": 1,
+    "fields": [
+      "from",
+      "to"
+    ]
+  },
+  "moschnost_dvigatelya_ls": {
+    "label": "Мощность двигателя, л.с.",
+    "component": "range",
+    "frequency": 3,
+    "fields": [
+      "from",
+      "to"
+    ]
+  },
+  "prodavets": {
+    "label": "Продавец",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "tip_avtomobilya": {
+    "label": "Тип автомобиля",
+    "component": "button_group",
+    "frequency": 2
+  },
+  "tip_avtomobilya_chekboksy": {
+    "label": "Тип автомобиля (чекбоксы)",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "strana_brenda": {
+    "label": "Страна бренда",
+    "component": "checklist",
+    "frequency": 2
+  },
+  "probeg_km": {
+    "label": "Пробег, км",
+    "component": "range",
+    "frequency": 3,
+    "fields": [
+      "from",
+      "to"
+    ]
+  },
+  "privod": {
+    "label": "Привод",
+    "component": "checklist",
+    "frequency": 3
+  },
+  "turbina": {
+    "label": "Турбина",
+    "component": "button_group",
+    "frequency": 2
+  },
+  "rashod_topliva_na_100_km": {
+    "label": "Расход топлива на 100 км",
+    "component": "range",
+    "frequency": 4,
+    "fields": [
+      "from",
+      "to"
+    ]
+  },
+  "razgon_do_100_km_ch": {
+    "label": "Разгон до 100 км/ч",
+    "component": "range",
+    "frequency": 2,
+    "fields": [
+      "from",
+      "to"
+    ]
+  },
+  "vladeltsev_po_pts": {
+    "label": "Владельцев по ПТС",
+    "component": "button_group",
+    "frequency": 2
+  },
+  "registratsiya_avtomobilya_v_gai": {
+    "label": "Регистрация автомобиля в ГАИ",
+    "component": "button_group",
+    "frequency": 2
+  },
+  "kuzov": {
+    "label": "Кузов",
+    "component": "checklist",
+    "frequency": 2
+  },
+  "kolichestvo_mest": {
+    "label": "Количество мест",
+    "component": "checklist",
+    "frequency": 2
+  },
+  "obem_bagazhnika": {
+    "label": "Объём багажника",
+    "component": "range",
+    "frequency": 2,
+    "fields": [
+      "from",
+      "to"
+    ]
+  },
+  "klirens": {
+    "label": "Клиренс",
+    "component": "range",
+    "frequency": 2,
+    "fields": [
+      "from",
+      "to"
+    ]
+  },
+  "rul": {
+    "label": "Руль",
+    "component": "button_group",
+    "frequency": 3
+  },
+  "optsii": {
+    "label": "Опции",
+    "component": "checklist",
+    "frequency": 2
+  },
+  "prodavtsy_dop": {
+    "label": "Продавцы (доп)",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "gruzopodemnost_t": {
+    "label": "Грузоподъемность, т",
+    "component": "range",
+    "frequency": 1,
+    "fields": [
+      "from",
+      "to"
+    ]
+  },
+  "dlina_strely_m": {
+    "label": "Длина стрелы, м",
+    "component": "range",
+    "frequency": 1,
+    "fields": [
+      "from",
+      "to"
+    ]
+  },
+  "kolesnaya_formula": {
+    "label": "Колесная формула",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "narabotka_motochasy": {
+    "label": "Наработка, моточасы",
+    "component": "range",
+    "frequency": 1,
+    "fields": [
+      "from",
+      "to"
+    ]
+  },
+  "tip_tehniki": {
+    "label": "Тип техники",
+    "component": "searchable_dropdown",
+    "frequency": 22
+  },
+  "obem_dvigatelya_l": {
+    "label": "Объем двигателя, л",
+    "component": "range",
+    "frequency": 1,
+    "fields": [
+      "from",
+      "to"
+    ]
+  },
+  "prodazha_s_nds": {
+    "label": "Продажа с НДС",
+    "component": "checklist",
+    "frequency": 2
+  },
+  "ofitsialnyj_diler": {
+    "label": "Официальный дилер",
+    "component": "checklist",
+    "frequency": 5
+  },
+  "tip_avtodoma": {
+    "label": "Тип автодома",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "diler": {
+    "label": "Дилер",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "tip_kuzova": {
+    "label": "Тип кузова",
+    "component": "dropdown",
+    "frequency": 3
+  },
+  "ekologicheskij_klass": {
+    "label": "Экологический класс",
+    "component": "checklist",
+    "frequency": 2
+  },
+  "obem_toplivnogo_baka": {
+    "label": "Объём топливного бака",
+    "component": "range",
+    "frequency": 2,
+    "fields": [
+      "from",
+      "to"
+    ]
+  },
+  "konfiguratsiya": {
+    "label": "Конфигурация",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "razreshennaya_maksimalnaya_massa": {
+    "label": "Разрешённая максимальная масса",
+    "component": "range",
+    "frequency": 2,
+    "fields": [
+      "from",
+      "to"
+    ]
+  },
+  "podveska_kabiny": {
+    "label": "Подвеска кабины",
+    "component": "checklist",
+    "frequency": 2
+  },
+  "moschnost_dvigatelya": {
+    "label": "Мощность двигателя",
+    "component": "range",
+    "frequency": 4,
+    "fields": [
+      "from",
+      "to"
+    ]
+  },
+  "ekspluatatsionnaya_massa": {
+    "label": "Эксплуатационная масса",
+    "component": "range",
+    "frequency": 3,
+    "fields": [
+      "from",
+      "to"
+    ]
+  },
+  "motochasy": {
+    "label": "Моточасы",
+    "component": "range",
+    "frequency": 4,
+    "fields": [
+      "from",
+      "to"
+    ]
+  },
+  "tip_avtobusa": {
+    "label": "Тип автобуса",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "tip_pritsepa": {
+    "label": "Тип прицепа",
+    "component": "dropdown",
+    "frequency": 2
+  },
+  "kolichestvo_osej": {
+    "label": "Количество осей",
+    "component": "checklist",
+    "frequency": 3
+  },
+  "tip_podveski": {
+    "label": "Тип подвески",
+    "component": "checklist",
+    "frequency": 2
+  },
+  "kolesnaya_formula_a03c": {
+    "label": "Колёсная формула",
+    "component": "checklist",
+    "frequency": 2
+  },
+  "tip_oborudovaniya": {
+    "label": "Тип оборудования",
+    "component": "searchable_dropdown",
+    "frequency": 1
+  },
+  "dopolnitelnye_parametry_prodavtsov": {
+    "label": "Дополнительные параметры продавцов",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "zadnyaya_podveska": {
+    "label": "Задняя подвеска",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "tip_kabiny": {
+    "label": "Тип кабины",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "gruzopodemnost_571d": {
+    "label": "Грузоподъемность",
+    "component": "range",
+    "frequency": 1,
+    "fields": [
+      "from",
+      "to"
+    ]
+  },
+  "arenda_s_nds": {
+    "label": "Аренда с НДС",
+    "component": "checklist",
+    "frequency": 7
+  },
+  "s_dostavkoj": {
+    "label": "С доставкой",
+    "component": "checklist",
+    "frequency": 6
+  },
+  "drugoe": {
+    "label": "Другое",
+    "component": "searchable_checklist",
+    "frequency": 1
+  },
+  "tip_tovara_dlya_to": {
+    "label": "Тип товара для ТО",
+    "component": "dropdown",
+    "frequency": 1
+  },
+  "s_garantiej_proizvoditelya": {
+    "label": "С гарантией производителя",
+    "component": "checklist",
+    "frequency": 3
+  },
+  "parametry_arendy": {
+    "label": "Параметры аренды",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "dopolnitelnye_optsii": {
+    "label": "Дополнительные опции",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "tip_arendy": {
+    "label": "Тип аренды",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "tsel_arendy": {
+    "label": "Цель аренды",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "klass_avtomobilya": {
+    "label": "Класс автомобиля",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "depozit": {
+    "label": "Депозит",
+    "component": "button_group",
+    "frequency": 1
+  },
+  "profession": {
+    "label": "Профессия",
+    "component": "searchable_checklist",
+    "frequency": 60
+  },
+  "company_industry": {
+    "label": "Сфера деятельности компании",
+    "component": "searchable_checklist",
+    "frequency": 54
+  },
+  "schedule": {
+    "label": "График",
+    "component": "checklist",
+    "frequency": 52
+  },
+  "work_format": {
+    "label": "Формат работы",
+    "component": "checklist",
+    "frequency": 53
+  },
+  "salary": {
+    "label": "Зарплата, ₽",
+    "component": "range",
+    "frequency": 54,
+    "fields": [
+      "from",
+      "to"
+    ]
+  },
+  "payment_frequency": {
+    "label": "Частота выплат",
+    "component": "checklist",
+    "frequency": 54
+  },
+  "company_provides": {
+    "label": "Компания предоставляет",
+    "component": "checklist",
+    "frequency": 55
+  },
+  "candidate_includes": {
+    "label": "В том числе для кандидатов",
+    "component": "checklist",
+    "frequency": 51
+  },
+  "job_direction": {
+    "label": "Ищу работу / Ищу сотрудника",
+    "component": "button_group",
+    "frequency": 12
+  },
+  "grafik_raboty": {
+    "label": "График работы",
+    "component": "checklist",
+    "frequency": 10
+  },
+  "periodichnost_vyplat": {
+    "label": "Периодичность выплат",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "mesto_raboty": {
+    "label": "Место работы",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "payment_period": {
+    "label": "Период оплаты",
+    "component": "button_group",
+    "frequency": 21
+  },
+  "zarplata_tip": {
+    "label": "Зарплата (тип)",
+    "component": "button_group",
+    "frequency": 1
+  },
+  "period_zarplaty": {
+    "label": "Период зарплаты",
+    "component": "button_group",
+    "frequency": 1
+  },
+  "kompaniya": {
+    "label": "Компания",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "period_oplaty_zarplaty": {
+    "label": "Период оплаты зарплаты",
+    "component": "button_group",
+    "frequency": 2
+  },
+  "zarplata_period": {
+    "label": "Зарплата (период)",
+    "component": "button_group",
+    "frequency": 4
+  },
+  "zarplata_za_period": {
+    "label": "Зарплата за период",
+    "component": "button_group",
+    "frequency": 1
+  },
+  "dopolnitelno_v_tom_chisle_dlya_kandidatov": {
+    "label": "Дополнительно (В том числе для кандидатов)",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "prodavtsy_proverka": {
+    "label": "Продавцы / Проверка",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "kompaniya_proverena": {
+    "label": "Компания проверена",
+    "component": "checklist",
+    "frequency": 7
+  },
+  "krupnye_kompanii": {
+    "label": "Крупные компании",
+    "component": "checklist",
+    "frequency": 3
+  },
+  "tip_zarplaty": {
+    "label": "Тип зарплаты",
+    "component": "button_group",
+    "frequency": 2
+  },
+  "ischu": {
+    "label": "Ищу",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "tip_oplaty": {
+    "label": "Тип оплаты",
+    "component": "button_group",
+    "frequency": 2
+  },
+  "chastota_vyplat_rezhim_zarplaty": {
+    "label": "Частота выплат (режим Зарплаты)",
+    "component": "button_group",
+    "frequency": 1
+  },
+  "svedeniya_o_kompanii": {
+    "label": "Сведения о компании",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "zarplata": {
+    "label": "Зарплата",
+    "component": "range",
+    "frequency": 3,
+    "fields": [
+      "from",
+      "to"
+    ]
+  },
+  "tip_rabot": {
+    "label": "Тип работ",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "rabotodatel": {
+    "label": "Работодатель",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "kogo_vy_ischete": {
+    "label": "Кого вы ищете",
+    "component": "searchable_checklist",
+    "frequency": 1
+  },
+  "obrazovanie": {
+    "label": "Образование",
+    "component": "checklist",
+    "frequency": 7
+  },
+  "vozrast": {
+    "label": "Возраст",
+    "component": "range",
+    "frequency": 7,
+    "fields": [
+      "from",
+      "to"
+    ]
+  },
+  "grazhdanstvo": {
+    "label": "Гражданство",
+    "component": "searchable_checklist",
+    "frequency": 7
+  },
+  "gotovy_rassmotret": {
+    "label": "Готовы рассмотреть",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "srok_razmescheniya": {
+    "label": "Срок размещения",
+    "component": "dropdown",
+    "frequency": 1
+  },
+  "sfera_deyatelnosti": {
+    "label": "Сфера деятельности",
+    "component": "searchable_checklist",
+    "frequency": 5
+  },
+  "status_poiska": {
+    "label": "Статус поиска",
+    "component": "checklist",
+    "frequency": 5
+  },
+  "data_obnovleniya": {
+    "label": "Дата обновления",
+    "component": "dropdown",
+    "frequency": 5
+  },
+  "data_publikatsii": {
+    "label": "Дата публикации",
+    "component": "dropdown",
+    "frequency": 5
+  },
+  "stazh_raboty": {
+    "label": "Стаж работы",
+    "component": "range",
+    "frequency": 5,
+    "fields": [
+      "from",
+      "to"
+    ]
+  },
+  "zhelaemyj_dohod_rub": {
+    "label": "Желаемый доход, ₽",
+    "component": "range",
+    "frequency": 4,
+    "fields": [
+      "from",
+      "to"
+    ]
+  },
+  "voditelskoe_udostoverenie": {
+    "label": "Водительское удостоверение",
+    "component": "button_group",
+    "frequency": 5
+  },
+  "medknizhka": {
+    "label": "Медкнижка",
+    "component": "button_group",
+    "frequency": 5
+  },
+  "gotovnost_k_komandirovkam": {
+    "label": "Готовность к командировкам",
+    "component": "checklist",
+    "frequency": 5
+  },
+  "zhelaemyj_dohod_rub_tsena": {
+    "label": "Желаемый доход, ₽ (Цена)",
+    "component": "range",
+    "frequency": 1,
+    "fields": [
+      "from",
+      "to"
+    ]
+  },
+  "vid_zapchasti": {
+    "label": "Вид запчасти",
+    "component": "dropdown",
+    "frequency": 3
+  },
+  "tip_zapchasti": {
+    "label": "Тип запчасти",
+    "component": "dropdown",
+    "frequency": 1
+  },
+  "marka_avto": {
+    "label": "Марка авто",
+    "component": "dropdown",
+    "frequency": 2
+  },
+  "proishozhdenie": {
+    "label": "Происхождение",
+    "component": "button_group",
+    "frequency": 2
+  },
+  "shirina_profilya": {
+    "label": "Ширина профиля",
+    "component": "searchable_dropdown",
+    "frequency": 4
+  },
+  "vysota_profilya": {
+    "label": "Высота профиля",
+    "component": "dropdown",
+    "frequency": 4
+  },
+  "diametr": {
+    "label": "Диаметр",
+    "component": "searchable_dropdown",
+    "frequency": 2
+  },
+  "sezonnost": {
+    "label": "Сезонность",
+    "component": "checklist",
+    "frequency": 2
+  },
+  "run_flat": {
+    "label": "Run Flat",
+    "component": "button_group",
+    "frequency": 2
+  },
+  "komplektnost": {
+    "label": "Комплектность",
+    "component": "button_group",
+    "frequency": 1
+  },
+  "besplatnyj_shinomontazh": {
+    "label": "Бесплатный шиномонтаж",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "diametr_dyujm": {
+    "label": "Диаметр, дюйм",
+    "component": "dropdown",
+    "frequency": 3
+  },
+  "os": {
+    "label": "Ось",
+    "component": "button_group",
+    "frequency": 1
+  },
+  "tip_diska": {
+    "label": "Тип диска",
+    "component": "checklist",
+    "frequency": 2
+  },
+  "shirina_oboda_dyujm": {
+    "label": "Ширина обода, дюйм",
+    "component": "dropdown",
+    "frequency": 2
+  },
+  "kolichestvo_otverstij": {
+    "label": "Количество отверстий",
+    "component": "dropdown",
+    "frequency": 2
+  },
+  "diametr_raspolozheniya_otverstij": {
+    "label": "Диаметр расположения отверстий",
+    "component": "text_input",
+    "frequency": 2,
+    "placeholder": "Что-то важное для вас"
+  },
+  "tsentralnoe_otverstie_dia": {
+    "label": "Центральное отверстие (DIA)",
+    "component": "text_input",
+    "frequency": 2,
+    "placeholder": "Что-то важное для вас"
+  },
+  "vylet_et": {
+    "label": "Вылет (ET)",
+    "component": "text_input",
+    "frequency": 2,
+    "placeholder": "Что-то важное для вас"
+  },
+  "tip_kolpaka": {
+    "label": "Тип колпака",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "tip_shiny": {
+    "label": "Тип шины",
+    "component": "button_group",
+    "frequency": 1
+  },
+  "kategorii_audio_i_videotehnika": {
+    "label": "Категории (Аудио- и видеотехника)",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "tip_avtousilitelya": {
+    "label": "Тип автоусилителя",
+    "component": "dropdown",
+    "frequency": 1
+  },
+  "tip_avtoakustiki": {
+    "label": "Тип автоакустики",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "kolichestvo_polos": {
+    "label": "Количество полос",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "tiporazmer": {
+    "label": "Типоразмер",
+    "component": "searchable_checklist",
+    "frequency": 2
+  },
+  "nominalnaya_moschnost_vt": {
+    "label": "Номинальная мощность, Вт",
+    "component": "searchable_checklist",
+    "frequency": 1
+  },
+  "impedans_om": {
+    "label": "Импеданс, Ом",
+    "component": "searchable_checklist",
+    "frequency": 1
+  },
+  "operatsionnaya_sistema_android": {
+    "label": "Операционная система Android",
+    "component": "button_group",
+    "frequency": 1
+  },
+  "kolichestvo_kamer": {
+    "label": "Количество камер",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "maksimalnoe_razreshenie_videozapisi": {
+    "label": "Максимальное разрешение видеозаписи",
+    "component": "searchable_checklist",
+    "frequency": 1
+  },
+  "tip_aksessuara": {
+    "label": "Тип аксессуара",
+    "component": "dropdown",
+    "frequency": 3
+  },
+  "mesto_ustanovki": {
+    "label": "Место установки",
+    "component": "button_group",
+    "frequency": 1
+  },
+  "dlina_schetki_mm": {
+    "label": "Длина щётки, мм",
+    "component": "searchable_checklist",
+    "frequency": 1
+  },
+  "dlina_vtoroj_schetki_mm": {
+    "label": "Длина второй щётки, мм",
+    "component": "searchable_checklist",
+    "frequency": 1
+  },
+  "tip_krepleniya": {
+    "label": "Тип крепления",
+    "component": "searchable_checklist",
+    "frequency": 1
+  },
+  "tip_schetki": {
+    "label": "Тип щетки",
+    "component": "button_group",
+    "frequency": 1
+  },
+  "obem": {
+    "label": "Объём",
+    "component": "text_input",
+    "frequency": 5,
+    "placeholder": "Что-то важное для вас"
+  },
+  "vid_vodnoj_tehniki": {
+    "label": "Вид водной техники",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "polnaya_massa_kg": {
+    "label": "Полная масса, кг",
+    "component": "range",
+    "frequency": 1,
+    "fields": [
+      "from",
+      "to"
+    ]
+  },
+  "funktsiya_samosvala": {
+    "label": "Функция самосвала",
+    "component": "button_group",
+    "frequency": 1
+  },
+  "ekipirovka": {
+    "label": "Экипировка",
+    "component": "checklist",
+    "frequency": 2
+  },
+  "tip_transporta": {
+    "label": "Тип транспорта",
+    "component": "checklist",
+    "frequency": 2
+  },
+  "tip_obuvi": {
+    "label": "Тип обуви",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "vozrastnaya_kategoriya": {
+    "label": "Возрастная категория",
+    "component": "button_group",
+    "frequency": 2
+  },
+  "tip_shlema": {
+    "label": "Тип шлема",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "vid_zaschity": {
+    "label": "Вид защиты",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "tip_masla_sostav": {
+    "label": "Тип масла / Состав",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "vyazkost_sae": {
+    "label": "Вязкость SAE",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "obem_3180": {
+    "label": "Объем",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "klassifikatsiya_api": {
+    "label": "Классификация API",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "klassifikatsiya_acea": {
+    "label": "Классификация ACEA",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "klassifikatsiya_ilsac": {
+    "label": "Классификация ILSAC",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "klassifikatsiya_oem": {
+    "label": "Классификация OEM",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "standart_astm": {
+    "label": "Стандарт ASTM",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "dopuski_oem": {
+    "label": "Допуски OEM",
+    "component": "text_input",
+    "frequency": 4,
+    "placeholder": "Что-то важное для вас"
+  },
+  "standart_dot": {
+    "label": "Стандарт DOT",
+    "component": "checklist",
+    "frequency": 1
+  },
+  "klass_vyazkosti_sae": {
+    "label": "Класс вязкости SAE",
+    "component": "searchable_checklist",
+    "frequency": 1
+  },
+  "standart_atf": {
+    "label": "Стандарт ATF",
+    "component": "searchable_checklist",
+    "frequency": 1
+  },
+  "standart_api": {
+    "label": "Стандарт API",
+    "component": "searchable_checklist",
+    "frequency": 1
+  },
+  "lichnye_veschi": {
+    "label": "Личные вещи",
+    "component": "checklist",
+    "frequency": 1
+  }
+}
