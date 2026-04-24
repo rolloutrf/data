@@ -1,6 +1,4 @@
-# Для VC
-
-> Source: https://huly.app/guest/rollout-67e84fa8-be684985d4-e67ca8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJsaW5rSWQiOiI2ODFiY2M1MWMyM2Q5Nzc2OWI0NWVhOTQiLCJndWVzdCI6InRydWUiLCJlbWFpbCI6IiNndWVzdEBoYy5lbmdpbmVlcmluZyIsIndvcmtzcGFjZSI6Inctcm9sbG91dHJmaW8tcm9sbG91dC02N2U4NGZhOC1iZTY4NDk4NWQ0LWU2N2NhNyJ9.S40jKuFvN9k_o2_BziTgVKk1jAfDdBghALpiFW2-y7A
+# VC
 
 Ребят, всем привет. Меня зовут Миша Колосков, и последние 10 лет я занимаюсь финтехом. С середины 2010-x я работал в Сервисе Яндекс.Деньги (позже он стал ЮMoney). За это время мне посчастливилось поработать практически со всеми клиентскими сервисами финтех направления: переводам, оплате услуг, идентификации, картам, системам лояльности. Удалось даже приложить руку к виджету по приему платежей, который встраивала в свои интерфейсы большая часть маркетплейсов РФ.
 
